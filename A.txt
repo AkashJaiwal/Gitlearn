@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 AKASH JAIWAL:
 DONEq
 	:wq
 		`	
+=======
+Learn the git
+>>>>>>> 10ac8c979676db0c8cf1ed370173508b38453124
